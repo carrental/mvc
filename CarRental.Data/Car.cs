@@ -29,7 +29,7 @@ namespace CarRental.Data
 
         public int Count { get; set; }
 
-        public virtual CarType CarType { get; set; }
+        public virtual Type Type { get; set; }
 
         public virtual ICollection<Order> Orders { get; set; }
     }

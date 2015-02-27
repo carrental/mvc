@@ -4,7 +4,7 @@ using DHTMLX.Scheduler;
 
 namespace CarRental
 {
-    partial class RentalDataContext
+    partial class RentalDataContext1
     {
     }
 

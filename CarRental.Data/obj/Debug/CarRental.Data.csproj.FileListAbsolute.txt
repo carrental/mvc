@@ -7,3 +7,4 @@ D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental.Data\bin\Debug\En
 D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental.Data\bin\Debug\EntityFramework.SqlServer.xml
 D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental.Data\obj\Debug\CarRental.Data.dll
 D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental.Data\obj\Debug\CarRental.Data.pdb
+D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental.Data\obj\Debug\CarRental.Data.csprojResolveAssemblyReference.cache
