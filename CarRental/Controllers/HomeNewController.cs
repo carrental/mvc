@@ -216,6 +216,7 @@ namespace CarRental.Controllers
         protected IQueryable<CarRental.Data.Car> _SelectCars(CarRental.Data.CarRentalDb context, FormState state)
         {
             IQueryable<CarRental.Data.Car> cars = from car in context.Cars select car;
+
             if (state == null)
                 return cars;
 

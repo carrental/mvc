@@ -52,4 +52,24 @@ namespace CarRental.Models
         public int carId { get; set; }
         public int carNumber { get; set; }
     }
+
+    public class CarMaster
+    {
+        public CarMaster(int carid, decimal carprice, int typeid, string carphoto, string carbrand, int count)
+        {
+            this.carId = carId;
+            this.carPrice = carprice;
+            this.typeId = typeId;
+            this.carPhoto = carphoto;
+            this.carBrand = carbrand;
+            this.count = count;
+        }
+
+        public int carId { get; set; }
+        public decimal carPrice;
+        public int typeId { get; set; }
+        public string carPhoto { get; set; }
+        public string carBrand { get; set; }
+        public int count { get; set; }
+    }
 }
