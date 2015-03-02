@@ -7,9 +7,9 @@ namespace CarRental.Data
     using System.Data.Entity.Spatial;
 
     [Table("Type")]
-    public partial class Type
+    public partial class CarType
     {
-        public Type()
+        public CarType()
         {
             Cars = new HashSet<Car>();
         }

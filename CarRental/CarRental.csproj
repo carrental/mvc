@@ -148,6 +148,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
+    <Compile Include="Controllers\CarTypeController.cs" />
     <Compile Include="Controllers\CustomController.cs" />
     <Compile Include="Controllers\HomeNewController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
@@ -475,6 +476,11 @@
     <Content Include="Views\HomeNew\About.cshtml" />
     <Content Include="Views\HomeNew\Index.cshtml" />
     <Content Include="Views\Custom\Index.cshtml" />
+    <Content Include="Views\CarType\Create.cshtml" />
+    <Content Include="Views\CarType\Delete.cshtml" />
+    <Content Include="Views\CarType\Details.cshtml" />
+    <Content Include="Views\CarType\Edit.cshtml" />
+    <Content Include="Views\CarType\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />

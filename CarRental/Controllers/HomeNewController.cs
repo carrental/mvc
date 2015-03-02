@@ -154,7 +154,7 @@ namespace CarRental.Controllers
         /// <param name="types">types</param>
         /// <param name="selected">selected</param>
         /// <returns>list with select list item</returns>
-        private List<SelectListItem> _CreateTypeSelect(IEnumerable<CarRental.Data.Type> types, FormState state, CarRental.Data.CarRentalDb context)
+        private List<SelectListItem> _CreateTypeSelect(IEnumerable<CarRental.Data.CarType> types, FormState state, CarRental.Data.CarRentalDb context)
         {
             var selected = state.Type;
             var typesList = new List<SelectListItem>()

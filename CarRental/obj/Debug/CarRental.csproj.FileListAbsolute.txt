@@ -1,7 +1,10 @@
 D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\bin\CarRental.dll
 D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\bin\CarRental.pdb
 D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\bin\Antlr3.Runtime.dll
+D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\bin\CarRental.Data.dll
 D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\bin\DHTMLX.dll
+D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\bin\EntityFramework.dll
+D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\bin\EntityFramework.SqlServer.dll
 D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\bin\Microsoft.AspNet.SignalR.Core.dll
 D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
 D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\bin\Microsoft.Owin.dll
@@ -18,8 +21,11 @@ D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\bin\System.Web.We
 D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\bin\System.Web.WebPages.dll
 D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\bin\System.Web.WebPages.Razor.dll
 D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\bin\WebGrease.dll
+D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\bin\CarRental.Data.pdb
 D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\bin\Antlr3.Runtime.pdb
 D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\bin\DHTMLX.xml
+D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\bin\EntityFramework.xml
+D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\bin\EntityFramework.SqlServer.xml
 D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\bin\Microsoft.AspNet.SignalR.Core.xml
 D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
 D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\bin\Microsoft.Owin.xml
@@ -36,9 +42,3 @@ D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\bin\System.Web.We
 D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\obj\Debug\CarRental.csprojResolveAssemblyReference.cache
 D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\obj\Debug\CarRental.dll
 D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\obj\Debug\CarRental.pdb
-D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\bin\CarRental.Data.dll
-D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\bin\EntityFramework.dll
-D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\bin\CarRental.Data.pdb
-D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\bin\EntityFramework.xml
-D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\bin\EntityFramework.SqlServer.dll
-D:\Divyesh\Downloads\Samples\CarRentMVC5\CarRentMVC5\CarRental\bin\EntityFramework.SqlServer.xml

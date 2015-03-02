@@ -14,7 +14,7 @@ namespace CarRental.Data
 
         public virtual DbSet<Car> Cars { get; set; }
         public virtual DbSet<Order> Orders { get; set; }
-        public virtual DbSet<Type> Types { get; set; }
+        public virtual DbSet<CarType> Types { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
@@ -28,7 +28,7 @@ namespace CarRental.Data
                 .HasForeignKey(e => e.car_id)
                 .WillCascadeOnDelete(false);
 
-            modelBuilder.Entity<Type>()
+            modelBuilder.Entity<CarType>()
                 .HasMany(e => e.Cars)
                 .WithRequired(e => e.Type)
                 .WillCascadeOnDelete(false);
