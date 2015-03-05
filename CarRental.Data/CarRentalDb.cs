@@ -15,6 +15,8 @@ namespace CarRental.Data
         public virtual DbSet<Car> Cars { get; set; }
         public virtual DbSet<Order> Orders { get; set; }
         public virtual DbSet<CarType> Types { get; set; }
+        public virtual DbSet<User> Users { get; set; }
+
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
